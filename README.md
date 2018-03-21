@@ -3,7 +3,7 @@
 
 |              Chanel App效果图               |                  我实现的效果                  |
 | :--------------------------------------: | :--------------------------------------: |
-| ![Chanel App Gif](https://ws4.sinaimg.cn/large/006tNc79gy1fnhp10d938g304p08wawk.gif) | ![ Chanel View ](https://github.com/ireliaBR/StackScrollView/raw/master/Docs/preview.gif) |
+| ![Chanel App Gif](https://github.com/ireliaBR/StackScrollView/raw/master/Docs/preview1.gif) | ![ Chanel View ](https://github.com/ireliaBR/StackScrollView/raw/master/Docs/preview2.gif) |
 
 
 ## 求星星，求分享
